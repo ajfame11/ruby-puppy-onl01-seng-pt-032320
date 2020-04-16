@@ -17,8 +17,8 @@ class Dog
   end
   
   def self.print_all
-    @@all.collect do |name|
-    print name
+    @@all.collect do |dog|
+    print dog
     end
   end
 end

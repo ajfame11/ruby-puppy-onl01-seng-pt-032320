@@ -13,6 +13,6 @@ class Dog
   end
   
   def self.clear
-    
+    .clear
   end
 end
